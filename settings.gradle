@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name = "PyTorch 3d cnn"
+include ':openCVLibrary3414'
